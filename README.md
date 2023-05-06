@@ -3,13 +3,9 @@
 
 Sebuah aplikasi sederhana yang berfungsi untuk memberikan informasi kelulusan sekolah kepada siswa menggunakan pencarian NISN.
 
-
-
-
 ## 🚀 Latar Belakang Project
 
 Projek ini saya tujukan untuk sekolah saya yang membutuhkan aplikasi sistem yang bisa memberikan informasi mengenai kelulusan secara online. Oleh karena itu saya membuat aplikasi yang bisa memenuhi kebutuhan itu.
-
 
 ## Digunakan oleh
 
@@ -17,10 +13,7 @@ Project ini telah di gunakan di sekolah:
 
 - SMKN 4 Bojonegoro
 
-
 ## Instalasi
-
-#### Step installasi
 
 ```text
 1. Pindahkan project ke htdocs ( jika menggunakan xampp )
@@ -33,7 +26,7 @@ Project ini telah di gunakan di sekolah:
 8. Simpan dan aplikasipun bisa digunakan
 
 ```
-    
+
 ## Authors
 
 - [@AlulCode](https://github.com/AlulCode45)
