@@ -1,7 +1,7 @@
 <?php
 
-include '../inc/config.php'; //untuk memanggil Config
-$username = $_POST['username']; // memanggil name dari login yang di inputkan
+include '../inc/config.php';
+$username = $_POST['username'];
 $password = $_POST['password'];
 $sql = mysqli_query($conn, "select * from users where username ='$username' and password ='$password' "); // memanggil table user di database sekolah dengan menampilkan nama dan password
 
@@ -15,5 +15,5 @@ if ($hasil > 0) {
         'username' => $row['username']
     ];
 
-    header("location:/admin/index.php");
+    header("location:index.php");
 }

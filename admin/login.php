@@ -12,7 +12,7 @@ session_destroy();
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Login - SMKN 4 BOJONEGORO</title>
+    <title>Login - SMKN 40 JAKARTA</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Custom Google font-->

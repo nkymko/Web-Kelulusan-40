@@ -13,7 +13,7 @@ if (isset($_SESSION['nisn'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>PORTAL PENGUMUMAN KELULUSAN - SMKN 4 BOJONEGORO</title>
+    <title> PENGUMUMAN KELULUSAN - SMKN 40 JAKARTA</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Custom Google font-->
@@ -31,7 +31,7 @@ if (isset($_SESSION['nisn'])) {
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light bg-white py-3">
             <div class="container px-5">
-                <a class="navbar-brand w-100" href="index.php"><span class="fw-bolder text-primary">SMKN 4 BOJONEGORO</span></a>
+                <a class="navbar-brand w-100" href="index.php"><span class="fw-bolder text-primary">SMKN 40 JAKARTA</span></a>
             </div>
         </nav>
         <!-- Header-->
@@ -43,12 +43,12 @@ if (isset($_SESSION['nisn'])) {
                 <!-- Header text content-->
                 <div class="text-center text-md-center">
                     <div class="badge bg-gradient-primary-to-secondary text-white mb-4">
-                        <div class="text-uppercase">SMKN 4 GO INTERNASIONAL</div>
+                        <div class="text-uppercase">SMKN 40 GO INTERNASIONAL</div>
                     </div>
                     <div class="fs-1 fw-light text-muted">PENGUMUMAN KELULUSAN</div>
-                    <h1 class="display-6 fw-bolder mb-5"><span class="text-gradient d-inline">SMKN 4 BOJONEGORO TAHUN PELAJARAN 2022/2023</span></h1>
-                    <h1 class="fw-bold">JUM'AT , 05 MEI 2023</h1>
-                    <h1 class="text-gradient d-inline fw-bold">PUKUL 13:00 WIB</h1>
+                    <h1 class="display-6 fw-bolder mb-5"><span class="text-gradient d-inline">SMKN 40 JAKARTA TAHUN PELAJARAN 2022/2023</span></h1>
+                    <!-- <h1 class="fw-bold">JUM'AT , 05 MEI 2023</h1>
+                    <h1 class="text-gradient d-inline fw-bold">PUKUL 13:00 WIB</h1> -->
                 </div>
             </div>
         </header>
@@ -58,7 +58,7 @@ if (isset($_SESSION['nisn'])) {
         <div class="container px-5">
             <div class="row align-items-center justify-content-between flex-column flex-sm-row">
                 <div class="col-auto">
-                    <div class="small m-0">Copyright &copy; SMKN 4 Bojonegoro 2023</div>
+                    <div class="small m-0">Copyright &copy; SMKN 40 Jakarta 2023</div>
                 </div>
                 <div class="col-auto">
                     <a class="small" href="#!">Privacy</a>

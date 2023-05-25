@@ -1,4 +1,3 @@
-
 # Sistem Informasi Kelulusan
 
 Sebuah aplikasi sederhana yang berfungsi untuk memberikan informasi kelulusan sekolah kepada siswa menggunakan pencarian NISN.
@@ -6,12 +5,6 @@ Sebuah aplikasi sederhana yang berfungsi untuk memberikan informasi kelulusan se
 ## 🚀 Latar Belakang Project
 
 Projek ini saya tujukan untuk sekolah saya yang membutuhkan aplikasi sistem yang bisa memberikan informasi mengenai kelulusan secara online. Oleh karena itu saya membuat aplikasi yang bisa memenuhi kebutuhan itu.
-
-## Digunakan oleh
-
-Project ini telah di gunakan di sekolah:
-
-- SMKN 4 Bojonegoro
 
 ## Instalasi
 
@@ -26,7 +19,3 @@ Project ini telah di gunakan di sekolah:
 8. Simpan dan aplikasipun bisa digunakan
 
 ```
-
-## Authors
-
-- [@AlulCode](https://github.com/AlulCode45)

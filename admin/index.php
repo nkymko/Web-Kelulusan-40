@@ -1,9 +1,9 @@
 <?php
-session_destroy();
+
 session_start();
 
 if (empty($_SESSION['admin'])) {
-    header("location:/admin/login.php");
+    header("location: login.php");
 }
 
 ?>
@@ -17,7 +17,7 @@ if (empty($_SESSION['admin'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Dashboard - SMKN 4 BOJONEGORO</title>
+    <title>Dashboard - SMKN 40 JAKARTA</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Custom Google font-->
@@ -52,22 +52,12 @@ if (empty($_SESSION['admin'])) {
                     <div class="form-group">
                         <label for="">Jurusan</label>
                         <select name="jurusan" class="form-control" required>
-                            <option value="">Pilih Jurusan</option>
-                            <option value="Rekayasa Perangkat Lunak 1">Rekayasa Perangkat Lunak 1</option>
-                            <option value="Rekayasa Perangkat Lunak 2">Rekayasa Perangkat Lunak 2</option>
-                            <option value="Rekayasa Perangkat Lunak 3">Rekayasa Perangkat Lunak 3</option>
-
-                            <option value="Teknik Pengelasan 1">Teknik Pengelasan 1</option>
-                            <option value="Teknik Pengelasan 2">Teknik Pengelasan 2</option>
-
-                            <option value="Agrobisnis Ternak Ruminansia 1">Agrobisnis Ternak Ruminansia 1</option>
-                            <option value="Agrobisnis Ternak Ruminansia 2">Agrobisnis Ternak Ruminansia 2</option>
-
-                            <option value="Tata boga 1">Tata boga 1</option>
-                            <option value="Tata boga 2">Tata boga 2</option>
-
-                            <option value="Perhotelan 1">Perhotelan 1</option>
-                            <option value="Perhotelan 2">Perhotelan 2</option>
+                            <option value="" hidden>Pilih Jurusan</option>
+                            <option value="Rekayasa Perangkat Lunak">Rekayasa Perangkat Lunak</option>
+                            <option value="Multimedia">Multimedia</option>
+                            <option value="Akutansi Keuangan Lembaga">Akutansi Keuangan Lembaga</option>
+                            <option value="Bisnis Daring Pemasaran">Bisnis Daring Pemasaran</option>
+                            <option value="Otomatisasi Tata Kelola Perkantoran">Otomatisasi Tata Kelola Perkantoran</option>
                         </select>
                     </div>
                     <div class="form-group">
