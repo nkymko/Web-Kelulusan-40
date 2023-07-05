@@ -1,10 +1,6 @@
-# Sistem Informasi Kelulusan
+# Indeks Informasi Kelulusan Siswa
 
 Sebuah aplikasi sederhana yang berfungsi untuk memberikan informasi kelulusan sekolah kepada siswa menggunakan pencarian NISN.
-
-## 🚀 Latar Belakang Project
-
-Projek ini saya tujukan untuk sekolah saya yang membutuhkan aplikasi sistem yang bisa memberikan informasi mengenai kelulusan secara online. Oleh karena itu saya membuat aplikasi yang bisa memenuhi kebutuhan itu.
 
 ## Instalasi
 
